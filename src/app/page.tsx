@@ -8,6 +8,7 @@ export default function Home() {
           Lisboa Advogados !!
         </h2>
         <h2>Site </h2>
+        <p>Testando um novo parágrafo</p>
       </div>
       
     </main>
